@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="server_side_v1">
+    <output-path>$PROJECT_DIR$/out/artifacts/server_side_v1</output-path>
+    <root id="archive" name="server_side_v1.jar">
+      <element id="directory" name="out">
+        <element id="archive" name="server_build_v1" />
+      </element>
+    </root>
+  </artifact>
+</component>
